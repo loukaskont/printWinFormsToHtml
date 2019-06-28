@@ -1,0 +1,18 @@
+c:\users\konto\documents\visual studio 2013\Projects\ektiposeis\ektiposeis\bin\Debug\ektiposeis.exe.config
+C:\Users\konto\documents\visual studio 2013\Projects\ektiposeis\ektiposeis\bin\Debug\ektiposeis.exe
+C:\Users\konto\documents\visual studio 2013\Projects\ektiposeis\ektiposeis\bin\Debug\ektiposeis.pdb
+C:\Users\konto\documents\visual studio 2013\Projects\ektiposeis\ektiposeis\obj\Debug\ektiposeis.csprojResolveAssemblyReference.cache
+C:\Users\konto\documents\visual studio 2013\Projects\ektiposeis\ektiposeis\obj\Debug\ektiposeis.Properties.Resources.resources
+C:\Users\konto\documents\visual studio 2013\Projects\ektiposeis\ektiposeis\obj\Debug\ektiposeis.csproj.GenerateResource.Cache
+C:\Users\konto\documents\visual studio 2013\Projects\ektiposeis\ektiposeis\obj\Debug\ektiposeis.exe
+C:\Users\konto\documents\visual studio 2013\Projects\ektiposeis\ektiposeis\obj\Debug\ektiposeis.pdb
+C:\Users\konto\documents\visual studio 2013\Projects\ektiposeis\ektiposeis\obj\Debug\ektiposeis.timologioForm.resources
+C:\Users\kloukas\Downloads\ektiposeis\ektiposeis\bin\Debug\ektiposeis.exe.config
+C:\Users\kloukas\Downloads\ektiposeis\ektiposeis\obj\Debug\ektiposeis.exe
+C:\Users\kloukas\Downloads\ektiposeis\ektiposeis\obj\Debug\ektiposeis.pdb
+C:\Users\kloukas\Downloads\ektiposeis\ektiposeis\bin\Debug\ektiposeis.exe
+C:\Users\kloukas\Downloads\ektiposeis\ektiposeis\bin\Debug\ektiposeis.pdb
+C:\Users\kloukas\Downloads\ektiposeis\ektiposeis\obj\Debug\ektiposeis.csprojResolveAssemblyReference.cache
+C:\Users\kloukas\Downloads\ektiposeis\ektiposeis\obj\Debug\ektiposeis.timologioForm.resources
+C:\Users\kloukas\Downloads\ektiposeis\ektiposeis\obj\Debug\ektiposeis.Properties.Resources.resources
+C:\Users\kloukas\Downloads\ektiposeis\ektiposeis\obj\Debug\ektiposeis.csproj.GenerateResource.Cache
